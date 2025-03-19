@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "wechat": "10845792697",
+    "gender": "男",
+    "hometown": "吉林长春",
+    "status": "在读",
+    "personality": "非典型理工男，情商高，共情能力强"
+  },
+  {
+    "id": 2,
+    "wechat": "13800138000",
+    "gender": "女",
+    "hometown": "北京",
+    "status": "已工作",
+    "personality": "艺术从业者，擅长绘画和音乐"
+  }
+]
