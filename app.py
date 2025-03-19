@@ -6,7 +6,7 @@ import time
 import webbrowser
 
 # ================= 配置区 =================
-API_KEY = "sk-1095da632dba4d37843efb21854f522b"  # 你的DeepSeek API密钥
+API_KEY = "sk-XXXXX"  # 你的DeepSeek API密钥
 BASE_URL = "https://api.deepseek.com/v1"         # DeepSeek API地址
 MODEL_NAME = "deepseek-chat"                     # 模型名称
 MAX_RETRIES = 3                                  # 最大重试次数
